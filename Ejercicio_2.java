@@ -7,9 +7,9 @@ public class Ejercicio_2 {
 	public static void main(String[] args) {
 	
 		final String MENSAJE_INICIO ="CONTADOR DE CARACTER DE MAYOR FRECUENCIA" +
-									"\n------------------------------------------" +
-									"\nNota: ante frecuencias repetidas se muestra " +
-									"\nel primer caracter según tabla UNICODE UTF-16.\n";
+						"\n------------------------------------------" +
+						"\nNota: ante frecuencias repetidas se muestra " +
+						"\nel primer caracter según tabla UNICODE UTF-16.\n";
 		final String MENSAJE_INGRESO_ORACION = "Indique la oración a evaluar (no puede ser vacía): ";
 		final String MENSAJE_RESULTADO = "El caracter [%c] se repite %d veces";
 		final int maxCharValue = 65535;		
