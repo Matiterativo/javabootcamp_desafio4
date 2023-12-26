@@ -8,7 +8,7 @@ public class Ejercicio_1 {
 	public static void main(String[] args) {
 		
 		final String MENSAJE_INICIO_PROGRAMA = "CALCULADOR DE SUMA TOTAL, MINIMO Y MAXIMO \n" +
-												"-----------------------------------------\n";
+							"-----------------------------------------\n";
 		final String MENSAJE_INGRESO_USUARIO = "Escriba un numero entero (0 para finalizar): ";
 		final String MENSAJE_ERROR_TIPO_INVALIDO = "Error: debe ingresar un número entero";
 		final String MENSAJE_FINALIZACION = "\nLa suma total es: %d \nEl numero mayor es: %d \nEl numero menor es: %d";
